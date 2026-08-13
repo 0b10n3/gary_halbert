@@ -30,7 +30,7 @@ Em implementação — ver [`specs/epicos/`](./specs/epicos/) para o roteiro de 
 [`PROMPT_IMPLEMENTACAO.md`](./PROMPT_IMPLEMENTACAO.md) para o prompt de continuação.
 
 - [x] Épico 1 — Fundação (estrutura, `estado.json`, convenção de Git)
-- [ ] Épico 2 — Skills de referência (estilo, formatos, pesquisa)
+- [x] Épico 2 — Skills de referência (estilo, formatos, pesquisa)
 - [ ] Épico 3 — Subagentes de coleta e pesquisa
 - [ ] Épico 4 — Subagente de redação
 - [ ] Épico 5 — Subagentes de revisão de linha

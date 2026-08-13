@@ -1,0 +1,7 @@
+# Editor/OS
+.DS_Store
+*.swp
+.vscode/
+
+# Claude Code local settings (permissões locais da máquina, não do time)
+.claude/settings.local.json

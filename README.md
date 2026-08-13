@@ -31,7 +31,7 @@ Em implementação — ver [`specs/epicos/`](./specs/epicos/) para o roteiro de 
 
 - [x] Épico 1 — Fundação (estrutura, `estado.json`, convenção de Git)
 - [x] Épico 2 — Skills de referência (estilo, formatos, pesquisa)
-- [ ] Épico 3 — Subagentes de coleta e pesquisa
+- [x] Épico 3 — Subagentes de coleta e pesquisa
 - [ ] Épico 4 — Subagente de redação
 - [ ] Épico 5 — Subagentes de revisão de linha
 - [ ] Épico 6 — Revisão final e loop

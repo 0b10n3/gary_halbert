@@ -35,8 +35,9 @@ Em implementação — ver [`specs/epicos/`](./specs/epicos/) para o roteiro de 
 - [x] Épico 4 — Subagente de redação
 - [x] Épico 5 — Subagentes de revisão de linha
 - [x] Épico 6 — Revisão final e loop
-- [ ] Épico 7 — Orquestração e gate humano
-- [ ] Épico 8 — QA e piloto real
+- [x] Épico 7 — Orquestração e gate humano
+- [ ] Épico 8 — QA e piloto real (requer ideia real do founder e o gate humano genuíno — não
+      automatizável)
 
 ## Estrutura
 
@@ -48,8 +49,8 @@ specs/
   estado.schema.md             schema de estado.json
   epicos/                      especificação + testes, um arquivo por épico
 output/<formato>/<slug>/       entregáveis e processo de cada execução (gerado em runtime)
-.claude/skills/                skill orquestradora + skills de referência (em implementação)
-.claude/agents/                subagentes de trabalho isolado (em implementação)
+.claude/skills/                skill orquestradora (copy-gary-halbert) + skills de referência
+.claude/agents/                subagentes de trabalho isolado
 ```
 
 Insumos compartilhados com o resto do ecossistema Syntaxis (não duplicados aqui, sempre

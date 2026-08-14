@@ -1,10 +1,10 @@
 {
-  "etapa_atual": 7,
+  "etapa_atual": 8,
   "veredito_final": "aprovado",
   "formato": "post_social",
   "plataforma": "substack",
   "loops_consumidos": 2,
-  "aprovacoes": [],
+  "aprovacoes": ["etapa8:aprovar:2026-08-14"],
   "pendencias": [
     "relação entre isca paga e curso gratuito ainda [VERIFICAR — MARKETING.md §13.2] (FUNIL.MD §3.1) — não bloqueia esta peça, checar sobreposição antes de publicar (levar ao gate humano)"
   ],

@@ -1,13 +1,11 @@
 {
-  "etapa_atual": 6,
+  "etapa_atual": 7,
   "formato": "post_social",
   "plataforma": "substack",
-  "loops_consumidos": 0,
+  "loops_consumidos": 1,
   "aprovacoes": [],
   "pendencias": [
-    "segmento ambíguo entre #GENZ-FEAR e #GENZ-GREED — resolver em pesquisa/redação ou escalar ao gate humano",
-    "pesquisa técnica pendente: siglas CDB/CDI/DI, ALM, emissor vs. distribuidor (pedido explícito do autor da ideia)",
-    "relação entre isca paga e curso gratuito ainda [VERIFICAR — MARKETING.md §13.2] (FUNIL.MD §3.1) — não bloqueia esta peça, checar sobreposição antes de publicar"
+    "relação entre isca paga e curso gratuito ainda [VERIFICAR — MARKETING.md §13.2] (FUNIL.MD §3.1) — não bloqueia esta peça, checar sobreposição antes de publicar (levar ao gate humano)"
   ],
   "commit_inicial": "e56c4a6"
 }

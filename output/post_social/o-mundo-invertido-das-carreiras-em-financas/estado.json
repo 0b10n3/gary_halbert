@@ -1,0 +1,13 @@
+{
+  "etapa_atual": 8,
+  "formato": "post_social",
+  "plataforma": "linkedin",
+  "loops_consumidos": 0,
+  "aprovacoes": [
+    "etapa8:aprovar:2026-08-17"
+  ],
+  "pendencias": [
+    "Link de cadastro do curso FVDT ainda não existe (placeholder no post-fonte) — trava o CTA final da peça até haver URL real."
+  ],
+  "commit_inicial": "b86e4d7"
+}

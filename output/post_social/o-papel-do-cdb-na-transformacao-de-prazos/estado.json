@@ -1,0 +1,16 @@
+{
+  "etapa_atual": 8,
+  "formato": "post_social",
+  "plataforma": "linkedin",
+  "loops_consumidos": 0,
+  "aprovacoes": [
+    "etapa8:aprovar:2026-08-17"
+  ],
+  "pendencias": [
+    "Segmento ambíguo: #Millennials-FEAR (melhor encaixe pelo conteúdo) vs. #GENZ-FEAR/#GENZ-GREED (segmento prioritário do canal/estágio mais próximos em FUNIL.MD §5) — não resolvido no brief.",
+    "Estágio do funil indefinido: post-fonte é conteúdo educacional puro, sem CTA comercial; nenhum dos quatro estágios de FUNIL.MD §2 se aplica sem forçar leitura. CTA padrão sugerido: convite para a próxima nota da série, sujeito a confirmação humana.",
+    "Post-fonte (../../SyntaxisSubstack/hemingway/posts/2026-08-14-o-papel-do-cdb-na-transformacao-de-prazos/post.md) está em status \"rascunho\", ainda não aprovado pelo pipeline hemingway.",
+    "Formato de entrega da isca paga e relação isca↔curso gratuito seguem [VERIFICAR] em FUNIL.MD §3.1 — só relevante se o gate humano decidir reposicionar esta peça como isca."
+  ],
+  "commit_inicial": "afcfa5a"
+}

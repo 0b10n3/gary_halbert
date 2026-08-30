@@ -5,7 +5,7 @@ peça de marketing revisada (gramática e estilo) e aprovada por um humano, para
 formatos: **sales letter**, **post de rede social** (LinkedIn, Substack, Instagram ou
 YouTube) ou **Meta Ads**.
 
-Irmão do pipeline editorial [`hemingway`](../../SyntaxisSubstack/hemingway) (Substack) —
+Irmão do pipeline editorial [`hemingway`](../../pipelines/hemingway) (Substack) —
 reaproveita a mesma skill de voz autoral e o mesmo padrão de orquestração (skill principal +
 subagentes de trabalho isolado + gate humano obrigatório).
 
@@ -54,7 +54,7 @@ output/<formato>/<slug>/       entregáveis e processo de cada execução (gerad
 ```
 
 Insumos compartilhados com o resto do ecossistema Syntaxis (não duplicados aqui, sempre
-referenciados por caminho relativo): `../../_insumos/`, `../../AUDIENCES.md`,
-`../../FEAR.md`, `../../GREED.md`, `../../FUNIL.MD`, `../../MARKETING.md`,
-`../../SYNTAXIS.md`, `../../SyntaxisEducation/PRICE_TAG.md`,
-`../../SyntaxisSubstack/hemingway/estilo/`.
+referenciados por caminho relativo): `../_insumos/`, `../../strategy/AUDIENCES.md`,
+`../../strategy/FEAR.md`, `../../strategy/GREED.md`, `../../strategy/FUNIL.md`, `../../strategy/MARKETING.md`,
+`../../strategy/SYNTAXIS.md`, `../../strategy/PRICE_TAG.md`,
+`../../pipelines/hemingway/estilo/`.

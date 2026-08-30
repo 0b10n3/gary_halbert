@@ -4,7 +4,7 @@ description: Guia de voz autoral do Syntaxis aplicado a copy de marketing (sales
 ---
 
 A fonte da voz **não vive neste repositório**. É
-`../../../../../SyntaxisSubstack/hemingway/estilo/estilo-autoral.md`, a mesma usada pelo
+`../../../../../pipelines/hemingway/estilo/estilo-autoral.md`, a mesma usada pelo
 pipeline `hemingway` (Substack) — regra de "uma fonte por fato" do ecossistema Syntaxis (ver
 `../../../CLAUDE.md` §Fonte única). **Leia esse arquivo inteiro** antes de escrever ou
 revisar qualquer peça de copy. Este `SKILL.md` não repete o conteúdo dele, só orienta como

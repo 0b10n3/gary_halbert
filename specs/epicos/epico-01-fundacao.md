@@ -1,7 +1,7 @@
 # ÉPICO 1 — Fundação: estrutura de repositório, estado e convenção de Git
 
 **Depende de:** nada (ponto de partida)
-**Entrada:** `CLAUDE.md` (raiz deste repositório), `../../_insumos/CONTEXT.md`
+**Entrada:** `CLAUDE.md` (raiz deste repositório), `../../../_insumos/CONTEXT.md`
 
 ## Objetivo
 
@@ -11,7 +11,7 @@ pipeline roda neste épico; é infraestrutura documental e de repositório.
 
 ## Escopo
 
-- Confirmar/criar estrutura de pastas em `SyntaxisCopywriter/gary_halbert/`:
+- Confirmar/criar estrutura de pastas em `pipelines/gary_halbert/`:
   `output/`, `specs/epicos/` (já existe), `.claude/skills/`, `.claude/agents/`.
 - Documentar o schema de `estado.json` em `specs/estado.schema.md` (campos, tipos, valores
   possíveis de `etapa_atual` 0–8, exemplo comentado) — usado por toda etapa do pipeline daqui
@@ -23,9 +23,9 @@ pipeline roda neste épico; é infraestrutura documental e de repositório.
 - `README.md` do repositório: o que é, como invocar o pipeline (mesmo que a skill ainda não
   exista), link para `CLAUDE.md`.
 - Confirmar que os insumos compartilhados existem e são legíveis por caminho relativo a
-  partir daqui: `../../_insumos/CONTEXT.md`, `gary_halbert.md`, `formatos.md`,
-  `fontes_pesquisa.md`, `../../AUDIENCES.md`, `../../FUNIL.MD`,
-  `../../SyntaxisEducation/PRICE_TAG.md`, `../../SyntaxisSubstack/hemingway/estilo/estilo-autoral.md`.
+  partir daqui: `../../../_insumos/CONTEXT.md`, `gary_halbert.md`, `formatos.md`,
+  `fontes_pesquisa.md`, `../../../../strategy/AUDIENCES.md`, `../../../../strategy/FUNIL.md`,
+  `../../../../strategy/PRICE_TAG.md`, `../../../hemingway/estilo/estilo-autoral.md`.
 
 ## Fora de escopo
 

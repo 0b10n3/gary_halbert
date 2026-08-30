@@ -2,7 +2,7 @@
 
 > Use este arquivo como prompt de partida para a sessão (ou sessões) de Claude Code que vai
 > implementar o pipeline. Cole o conteúdo abaixo da linha `---` diretamente no Claude Code,
-> rodando a partir da raiz deste repositório (`SyntaxisCopywriter/gary_halbert/`). Pode ser
+> rodando a partir da raiz deste repositório (`pipelines/gary_halbert/`). Pode ser
 > uma sessão por épico ou uma sessão contínua que avança épico a épico — ambos funcionam,
 > desde que cada épico só comece depois do Gate do anterior estar marcado.
 
@@ -30,7 +30,7 @@ ordem, mesmo que pareça mais rápido — o Épico 7 (orquestração) depende de
 
 **Convenções a respeitar em todo código/conteúdo gerado:**
 - Todo subagente novo segue o formato de frontmatter já usado no repositório irmão
-  `../../SyntaxisSubstack/hemingway/.claude/agents/` (`name`, `description` com gatilho de
+  `../../pipelines/hemingway/.claude/agents/` (`name`, `description` com gatilho de
   uso claro, `tools`, `skills`, `model: inherit`) — leia pelo menos um exemplo de lá antes de
   escrever o primeiro agente daqui.
 - Toda skill que escreve arquivo ou dispara pipeline leva `disable-model-invocation: true`

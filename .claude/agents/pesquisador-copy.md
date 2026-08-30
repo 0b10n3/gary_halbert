@@ -12,13 +12,13 @@ texto pronto.
 
 ## Ordem de busca (mais barato e mais confiável primeiro)
 
-1. **Dado interno:** `../../../../_insumos/exemplos_aprovados/<formato>/` — se já existir
+1. **Dado interno:** `../../../_insumos/exemplos_aprovados/<formato>/` — se já existir
    peça aprovada para o mesmo segmento/estágio de funil, ela supera qualquer inferência
    externa. Cite o arquivo, não repita o texto inteiro.
-2. **Mercado direto já mapeado:** `../../../../_insumos/fontes_pesquisa.md` §2 (Wall Street
+2. **Mercado direto já mapeado:** `../../../_insumos/fontes_pesquisa.md` §2 (Wall Street
    Mojo, Analyst Prep, Toro Academy, e os parceiros potenciais Eu Me Banco/T2
    Educação/Top Invest) — o que esse nicho já faz, para não repetir ângulo saturado.
-3. **Cânone de direct-response:** `../../../../_insumos/gary_halbert.md` — use para calibrar
+3. **Cânone de direct-response:** `../../../_insumos/gary_halbert.md` — use para calibrar
    *estrutura* (estágio de consciência do segmento, qual mecanismo provar, que tipo de prova
    a peça precisa) via a skill `pesquisa-direct-response`.
 4. **Busca externa livre** (`WebSearch`/`WebFetch`) — só depois dos três passos acima, e

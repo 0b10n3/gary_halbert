@@ -2,7 +2,7 @@
 
 **Depende de:** Épico 4
 **Entrada:** `03-vN.md`, skill `estilo-syntaxis`,
-`../../SyntaxisSubstack/hemingway/.claude/agents/revisor-gramatical.md` (referência direta)
+`../../../hemingway/.claude/agents/revisor-gramatical.md` (referência direta)
 
 ## Objetivo
 

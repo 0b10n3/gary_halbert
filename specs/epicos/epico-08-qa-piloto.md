@@ -13,7 +13,7 @@ recorrente.
 
 - Rodar `/copy-gary-halbert` com uma ideia real de copy do founder, para o formato que ele
   priorizar (provavelmente a isca paga ou o curso gratuito, dado o estágio atual do funil —
-  ver `../../FUNIL.MD` §5).
+  ver `../../../../strategy/FUNIL.md` §5).
 - Acompanhar o founder no gate humano (etapa 8) real — não simulado.
 - Se o founder pedir ajuste: deixar o loop rodar normalmente (não pular etapas "para agilizar
   o piloto") — o objetivo do piloto é justamente testar o loop sob uso real.

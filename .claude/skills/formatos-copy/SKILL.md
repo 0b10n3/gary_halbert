@@ -3,7 +3,7 @@ name: formatos-copy
 description: Especificação técnica por formato/plataforma de copy — limites mecânicos, estrutura esperada, ponto de corte de preview. Use ao escrever (redator-copy) ou avaliar (revisor-final) qualquer peça, para saber a estrutura e os limites exatos do formato/plataforma declarados em --formato/--plataforma.
 ---
 
-A especificação completa vive em `../../../../../_insumos/formatos.md` — este `SKILL.md` não
+A especificação completa vive em `../../../../_insumos/formatos.md` — este `SKILL.md` não
 repete os números, só indexa qual seção usar para cada combinação de `--formato`/
 `--plataforma`. **Leia a seção inteira do formato em uso antes de escrever ou avaliar uma
 peça** — limite mecânico errado gera peça cortada ou anúncio rejeitado, não é detalhe menor.

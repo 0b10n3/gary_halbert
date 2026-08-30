@@ -1,7 +1,7 @@
 # ÉPICO 3 — Subagentes de coleta de contexto e pesquisa
 
 **Depende de:** Épico 2
-**Entrada:** `../../_insumos/CONTEXT.md`, skill `pesquisa-direct-response`
+**Entrada:** `../../../_insumos/CONTEXT.md`, skill `pesquisa-direct-response`
 
 ## Objetivo
 

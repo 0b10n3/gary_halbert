@@ -35,7 +35,7 @@ _insumos/                     (na raiz Syntaxis/, compartilhado com outros proje
   exemplos_aprovados/         peças reais já aprovadas (cresce com o uso, vazia no início)
   ideias/                     ideias brutas apontadas via --ideia
     processadas/              ideias já aprovadas e publicadas (movidas para cá)
-SyntaxisCopywriter/gary_halbert/
+pipelines/gary_halbert/
   specs/epicos/                especificação de implementação, por épico, com testes
   output/<formato>/<slug>/     entregáveis + processo de uma execução do pipeline
   .claude/skills/               skill orquestradora + skills de referência
@@ -44,14 +44,14 @@ SyntaxisCopywriter/gary_halbert/
 
 ## Fonte única de cada coisa
 
-- **Identidade e missão:** `../../SYNTAXIS.md`.
-- **Público e gatilhos emocionais:** `../../AUDIENCES.md` + `../../FEAR.md` + `../../GREED.md`.
-- **Funil e oferta:** `../../FUNIL.MD` (destilação de `../../MARKETING.md` §5–8).
-- **Preço:** `../../SyntaxisEducation/PRICE_TAG.md`.
-- **Voz autoral:** `../../SyntaxisSubstack/hemingway/estilo/estilo-autoral.md` + skill
+- **Identidade e missão:** `../../strategy/SYNTAXIS.md`.
+- **Público e gatilhos emocionais:** `../../strategy/AUDIENCES.md` + `../../strategy/FEAR.md` + `../../strategy/GREED.md`.
+- **Funil e oferta:** `../../strategy/FUNIL.md` (destilação de `../../strategy/MARKETING.md` §5–8).
+- **Preço:** `../../strategy/PRICE_TAG.md`.
+- **Voz autoral:** `../../pipelines/hemingway/estilo/estilo-autoral.md` + skill
   `voz-syntaxis` do repositório `hemingway` — referenciados, nunca copiados.
-- **Técnica de copywriting:** `../../_insumos/gary_halbert.md`.
-- **Especificação de formato/plataforma:** `../../_insumos/formatos.md`.
+- **Técnica de copywriting:** `../_insumos/gary_halbert.md`.
+- **Especificação de formato/plataforma:** `../_insumos/formatos.md`.
 
 ## O pipeline: `/copy-gary-halbert --ideia <caminho> --formato <formato> [--plataforma <plataforma>]`
 
@@ -69,7 +69,7 @@ explicitamente.
 | # | Etapa | Executor | Saída em `processo/` |
 |---|---|---|---|
 | 0 | Ingestão | principal | valida `--formato`/`--plataforma`, cria `estado.json` e branch `copy/<slug>` a partir de `main` |
-| 1 | Coleta de contexto | subagente `coletor-contexto` | `01-brief.md` — segmento (`AUDIENCES.md`), estágio do funil (`FUNIL.MD`), mecanismo (`CONTEXT.md` §3) |
+| 1 | Coleta de contexto | subagente `coletor-contexto` | `01-brief.md` — segmento (`AUDIENCES.md`), estágio do funil (`FUNIL.md`), mecanismo (`CONTEXT.md` §3) |
 | 2 | Pesquisa | subagente `pesquisador-copy` + skill `pesquisa-direct-response` | `02-pesquisa.md` — ganchos/estruturas correlatas, com fontes |
 | 3 | Redação | subagente `redator-copy` + skills `estilo-syntaxis` + `formatos-copy` | `03-vN.md` |
 | 4 | Revisão gramatical | subagente `revisor-gramatical` | `04-revisao-gramatical.md` — diff comentado, não mexe em estrutura |

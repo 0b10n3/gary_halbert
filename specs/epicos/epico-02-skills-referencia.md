@@ -1,8 +1,8 @@
 # ÉPICO 2 — Skills de referência: estilo, formatos e pesquisa
 
 **Depende de:** Épico 1
-**Entrada:** `../../_insumos/formatos.md`, `../../_insumos/gary_halbert.md`,
-`../../_insumos/fontes_pesquisa.md`, `../../SyntaxisSubstack/hemingway/.claude/skills/voz-syntaxis/SKILL.md`
+**Entrada:** `../../../_insumos/formatos.md`, `../../../_insumos/gary_halbert.md`,
+`../../../_insumos/fontes_pesquisa.md`, `../../../hemingway/.claude/skills/voz-syntaxis/SKILL.md`
 
 ## Objetivo
 
@@ -12,7 +12,7 @@ qualquer subagente que dependa delas (redator, revisor-estilo, revisor-final, pe
 ## Escopo
 
 - `.claude/skills/estilo-syntaxis/SKILL.md` — **não duplica** conteúdo de voz. Aponta por
-  caminho relativo para `../../../SyntaxisSubstack/hemingway/estilo/estilo-autoral.md` e
+  caminho relativo para `../../../hemingway/estilo/estilo-autoral.md` e
   reexplica quando usar (redação e revisão de estilo, qualquer formato de copy). Frontmatter
   com `disable-model-invocation: true` seria incorreto aqui — esta é skill de referência, não
   de escrita de arquivo/disparo de pipeline; usar invocação automática por descrição.

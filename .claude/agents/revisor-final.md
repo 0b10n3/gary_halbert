@@ -15,7 +15,7 @@ aplicadas, etapa 6), `estado.json` (para ler `loops_consumidos`) e o histórico 
 
 1. **Checklist mecânico e de conteúdo** (`_insumos/formatos.md` §4, via skill
    `formatos-copy`): limite mecânico do campo respeitado; abertura autossuficiente até o
-   corte de preview; segmento/estágio de funil coerentes com `../FUNIL.MD` §5; preço
+   corte de preview; segmento/estágio de funil coerentes com `../../../../strategy/FUNIL.md` §5; preço
    `[VERIFICAR]` não ancorado em número fechado; nenhum dado sem fonte rastreável.
 2. **Completude estrutural** (`_insumos/gary_halbert.md` §3–4, via skill
    `pesquisa-direct-response`): AIDA completo para sales letter (Atenção, Interesse, Desejo,
@@ -37,7 +37,7 @@ aplicadas, etapa 6), `estado.json` (para ler `loops_consumidos`) e o histórico 
 - **Pendência externa que a redação não resolve reescrevendo** (não reprova por causa
   disso — aprova com a pendência sinalizada para o gate humano): um bloqueio de publicação
   documentado no brief que depende de decisão do founder (ex.: relação isca↔curso gratuito
-  ainda `[VERIFICAR]`, `FUNIL.MD` §3.1) e que a peça já tratou corretamente (sem afirmar nem
+  ainda `[VERIFICAR]`, `FUNIL.md` §3.1) e que a peça já tratou corretamente (sem afirmar nem
   negar o que está pendente). Reescrever a peça de novo não resolve uma pendência que depende
   de informação que ninguém no pipeline tem. Aprove a redação, mas **carregue a pendência
   para `07-veredito.md`** com destaque, para o gate humano decidir se publica ou só arquiva a

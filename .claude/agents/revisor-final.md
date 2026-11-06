@@ -36,8 +36,8 @@ aplicadas, etapa 6), `estado.json` (para ler `loops_consumidos`) e o histórico 
   `redator-copy`.
 - **Pendência externa que a redação não resolve reescrevendo** (não reprova por causa
   disso — aprova com a pendência sinalizada para o gate humano): um bloqueio de publicação
-  documentado no brief que depende de decisão do founder (ex.: relação isca↔curso gratuito
-  ainda `[VERIFICAR]`, `FUNIL.md` §3.1) e que a peça já tratou corretamente (sem afirmar nem
+  documentado no brief que depende de decisão do founder (ex.: desconto do bump fora do
+  checkout ainda `[VERIFICAR]`, `FUNIL.md` §3.3) e que a peça já tratou corretamente (sem afirmar nem
   negar o que está pendente). Reescrever a peça de novo não resolve uma pendência que depende
   de informação que ninguém no pipeline tem. Aprove a redação, mas **carregue a pendência
   para `07-veredito.md`** com destaque, para o gate humano decidir se publica ou só arquiva a

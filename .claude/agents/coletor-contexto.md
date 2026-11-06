@@ -17,8 +17,8 @@ conteúdo para o brief, só extraia o que se aplica a esta ideia específica):
 1. `../../../_insumos/CONTEXT.md` — leia inteiro primeiro, é o índice de tudo abaixo.
 2. `../../../../strategy/AUDIENCES.md` — para declarar o segmento (`#Millennials-FEAR`,
    `#Millennials-GREED`, `#GENZ-FEAR` ou `#GENZ-GREED`).
-3. `../../../../strategy/FUNIL.md` — para declarar o estágio do funil (isca paga, curso gratuito,
-   core offer, upsell) e confirmar que o segmento escolhido é o prioritário desse estágio
+3. `../../../../strategy/FUNIL.md` — para declarar o estágio do funil (topo gratuito, isca paga,
+   order bump, produto de entrada FVDT, 2º curso, avançado, mentoria) e confirmar que o segmento escolhido é o prioritário desse estágio
    (`FUNIL.md` §5) — se não for, sinalize a divergência no brief, não decida sozinho.
 4. `../../../../strategy/MARKETING.md` §4 (ou `CONTEXT.md` §3, já sintetizado) — para identificar qual
    dos três mecanismos de diferenciação a peça vai provar.
@@ -31,7 +31,7 @@ conteúdo para o brief, só extraia o que se aplica a esta ideia específica):
 - **Segmento declarado** — um dos quatro de `AUDIENCES.md`, nunca "o público jovem" em
   abstrato (ver `gary_halbert.md` §7, "duas portas" — regra vem da skill
   `pesquisa-direct-response`, não repita aqui).
-- **Estágio do funil** — um dos quatro de `FUNIL.md` §2, com o segmento prioritário
+- **Estágio do funil** — um dos estágios de `FUNIL.md` §2, com o segmento prioritário
   correspondente (§5) citado para conferência do `redator-copy`.
 - **Mecanismo** — qual dos três diferenciais (`CONTEXT.md` §3) a peça precisa provar.
 - **Restrições de formato/plataforma** — não repita `formatos.md`, só aponte a seção
